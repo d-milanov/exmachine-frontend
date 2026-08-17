@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+# Private bio site — must stay on the local machine only.
+bio/
+src/bio/
+
+# Full build config incl. bio entries — local-only counterpart to the
+# public vite.config.js. See vite.config.js for the public build.
+vite.config.local.js
+
+# Contain real deployed API endpoint addresses.
+.env.production
+.env.development
