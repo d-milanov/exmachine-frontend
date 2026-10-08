@@ -1,9 +1,9 @@
-# Extraction Machine — Frontend
+# [Extraction Machine](https://exmachine.net)  website frontend
 
 React + Vite frontend with two pages:
 
-- `/` — Extraction Machine: pastes text into a numbers/dates/money extraction API.
-- `/cities` — a proximity-graph visualization over a cities/borders API.
+-  [/](https://exmachine.net)  — Extraction Machine: pastes text into a numbers/dates/money extraction API.
+-  [/cities](https://exmachine.net/cities) — a proximity-graph visualization over a cities/borders API.
 
 ## Setup
 
