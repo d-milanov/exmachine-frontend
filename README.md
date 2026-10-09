@@ -2,7 +2,7 @@
 
 React + Vite frontend with two pages:
 
--  [/](https://exmachine.net)  — Extraction Machine: pastes text into a numbers/dates/money extraction API.
+-  [/parser](https://exmachine.net/parser)  — Extraction Machine: pastes text into a numbers/dates/money extraction API.
 -  [/cities](https://exmachine.net/cities) — a proximity-graph visualization over a cities/borders API.
 
 ## Setup
