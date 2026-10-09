@@ -273,7 +273,7 @@ body {
 
 /* ── Responsive ── */
 @media (max-width: 600px) {
-  .header { padding: 16px; }
+  .header { padding: 16px; flex-wrap: wrap; gap: 12px; }
   .main { padding: 24px 16px 60px; }
   .td-source { max-width: 140px; }
 }
